@@ -30,7 +30,7 @@ CineSage/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cinesage.git
+git clone [https://github.com/YOUR_USERNAME/cinesage.git](https://github.com/shivansh4565/Cinesage_project)
 cd cinesage
 ```
 
